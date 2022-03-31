@@ -1,0 +1,8 @@
+Modules for microservices:
+1.	spring-cloud-config-server
+
+
+Annotations required:
+1.	@EnableConfigServer:
+	-	git or some other similar provider is supported by spring-cloud-config-server.
+	-	a .git is required for setting up configurations of microservices architecture
